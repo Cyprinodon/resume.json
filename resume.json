@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "Dimitri Grabette",
+    "label": "Développeur web",
+    "image": "",
+    "summary": "Je suis un travailleur pluridisciplinaire. Ma double compétence me permet aujourd'hui de développer des applications fullstack/Symfony ainsi que de concevoir et dessiner des maquettes et éléments d'interfaces graphiques, que ce soit par des moyens traditionnels ou numériques, vectoriels ou matriciels. J'ai appris les bases du web en autodidacte pendant des années avant d'effectuer une série de formations pour cimenter mes compétences.",
+    "website": "https://www.mechanicaldandelion.fr",
+    "email": "dimitri.grabette@mechanicaldandelion.fr",
+    "location": {
+      "city": "Marnes-la-Coquette",
+      "postal code":92430,
+      "country": "France",
+      "countryCode": "FR"
+    },
+    "profiles": [
+      {
+        "url": "https://github.com/Cyprinodon",
+        "username": "Cyprinodon",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2009-12-12",
+      "startDate": "2008-02-12",
+      "area": "Software Engineering (incomplete)",
+      "studyType": "Bachelors",
+      "institution": "The University of Queensland"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML",
+        "SVG & SMIL",
+        "CSS",
+        "Javascript/Ecmascript"
+      ],
+      "level": "Confirmé",
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "C#",
+        "PHP",
+        "Symfony 4+"
+      ],
+      "level": "Junior",
+      "name": "Backend"
+    },
+    {
+      "keywords": ["Maquette web", "Illustration", "Icônes vectorielles"],
+      "level": "Senior",
+      "name": "Graphisme"
+    }
+  ],
+  "work": [
+    {
+      "summary": "",
+      "website": "",
+      "company": "",
+      "pinned": true,
+      "location": "",
+      "position": "",
+      "startDate": "",
+      "highlights": []
+    }
+  ],
+  "languages": [{
+      "language": "Anglais",
+      "fluency": "Commun"
+  }],
+  "interests": [
+    {
+      "name": "Connaissances du vivant"
+    },
+    {
+      "name": "Ecriture de nouvelles, fables et petits scénarios"
+    },
+    {
+      "name": "Lecture au sens large"
+    },
+    {
+      "name": "Jeux vidéo de gestion et de grande stratégie"
+    }
+  ]
+}
